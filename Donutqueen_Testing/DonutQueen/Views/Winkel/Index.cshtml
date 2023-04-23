@@ -1,0 +1,22 @@
+﻿@model DonutQueen.ViewModels.WinkelsViewModel;
+
+@{
+    ViewData["Title"] = "Winkels";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@foreach(var winkel in Model.Winkels)
+{
+    <div class="card border-danger m-2" style="width: 18rem; height: 32rem; float: left;">
+        <img src="~/images/location.jpg" class="card-img-top" alt="location" style="height: 18rem; width: auto;">
+        <div class="card-body bg-primary">
+            <h5 class="card-title" style="color: white;">@winkel.Naam</h5>
+            <p class="card-text">@winkel.Straat @winkel.Nummer<br/>@winkel.Postcode @winkel.Gemeente</p>
+        </div>
+        <div class="card-footer bg-primary">
+            <a href="#" class="btn btn-light">Bezoek</a>
+        </div>
+    </div>
+}
+<div style="clear: both;"/>

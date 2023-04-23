@@ -1,0 +1,49 @@
+﻿@model DonutQueen.ViewModels.DeleteDonutViewModel;
+@{
+    ViewData["Title"] = @Model.Naam;
+}
+
+<h1 class="mt-5">Bent u zeker dat u '@ViewData["Title"]' wil verwijderen?</h1>
+
+<table class="table table-bordered table-striped mt-5">
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.DonutId)</td>
+        <td>@this.Model.DonutId</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.Naam)</td>
+        <td>@this.Model.Naam</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.Omschrijving)</td>
+        <td>@this.Model.Omschrijving</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.Topping)</td>
+        <td>@this.Model.Topping</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.Glazuur)</td>
+        <td>@this.Model.Glazuur</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.Vulling)</td>
+        <td>@this.Model.Vulling</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.IsVegan)</td>
+        <td>@this.Model.IsVegan</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(model => this.Model.Prijs)</td>
+        <td>@this.Model.Prijs</td>
+    </tr>
+</table>
+
+
+<form class="mt-5" asp-action="DeleteDonut">
+    <div class="form-group">
+        <input type="submit" value="Verwijderen" class="btn" style="background-color: hotpink !important; color: white !important;"/>
+        <a asp-action="Donuts" class="btn" style="background-color: hotpink !important; color: white !important;">Terug</a>
+    </div>
+</form>

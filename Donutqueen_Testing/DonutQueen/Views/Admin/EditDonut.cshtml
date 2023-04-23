@@ -1,0 +1,62 @@
+﻿@model DonutQueen.ViewModels.EditDonutViewModel
+
+@{
+    ViewData["Title"] = "Donut aanpassen";
+}
+
+<h1 class="mt-5">@ViewData["Title"]</h1>
+
+<form asp-action="EditDonut">
+    <input type="hidden" asp-for="DonutId"/>
+    <div class="row mt-5">
+        <div asp-validation-summary="ModelOnly" class="text-danger"/>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Naam" class="control-label">@Html.DisplayNameFor(model => this.Model.Naam)</label>
+                <input asp-for="Naam" class="form-control"/>
+                <span asp-validation-for="Naam" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Topping" class="control-label">@Html.DisplayNameFor(model => this.Model.Topping)</label>
+                <input asp-for="Topping" class="form-control"/>
+                <span asp-validation-for="Topping" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Glazuur" class="control-label">@Html.DisplayNameFor(model => this.Model.Glazuur)</label>
+                <input asp-for="Glazuur" class="form-control"/>
+                <span asp-validation-for="Glazuur" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vulling" class="control-label">@Html.DisplayNameFor(model => this.Model.Vulling)</label>
+                <input asp-for="Vulling" class="form-control"/>
+                <span asp-validation-for="Vulling" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IsVegan" class="control-label">@Html.DisplayNameFor(model => this.Model.IsVegan)</label>
+                <input type="checkbox" asp-for="IsVegan" class="form-check"/>
+                <span asp-validation-for="IsVegan" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Omschrijving" class="control-label">@Html.DisplayNameFor(model => this.Model.Omschrijving)</label>
+                <textarea asp-for="Omschrijving" class="form-control" rows="5"></textarea>
+                <span asp-validation-for="Omschrijving" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Afbeelding" class="control-label">@Html.DisplayNameFor(model => this.Model.Afbeelding)</label>
+                <input asp-for="Afbeelding" class="form-control"/>
+                <span asp-validation-for="Afbeelding" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prijs" class="control-label">@Html.DisplayNameFor(model => this.Model.Prijs)</label>
+                <input asp-for="Prijs" class="form-control"/>
+                <span asp-validation-for="Prijs" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group ml-2">
+                <input type="submit" value="Aanpassen" class="btn" style="background-color: hotpink !important; color: white !important;"/>
+                <a asp-action="Donuts" class="btn" style="background-color: hotpink !important; color: white !important;">Terug</a>
+            </div>
+    </div>
+</form>

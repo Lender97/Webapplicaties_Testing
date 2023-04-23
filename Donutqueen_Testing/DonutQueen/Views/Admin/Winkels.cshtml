@@ -1,0 +1,23 @@
+﻿@model DonutQueen.ViewModels.WinkelOverviewViewModel;
+
+@{
+    ViewData["Title"] = "Admin - Winkels";
+}
+
+<h1 class="mt-5">@ViewData["Title"]</h1>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Winkels[0].WinkelId)</th>
+        <th>@Html.DisplayNameFor(model => model.Winkels[0].Naam)</th>
+        <th>Locatie</th>
+    </tr>
+    @foreach(var winkel in Model.Winkels)
+    {
+        <tr>
+            <td>@winkel.WinkelId</td>
+            <td>@winkel.Naam</td>
+            <td>@winkel.Straat @winkel.Nummer<br/>@winkel.Postcode @winkel.Gemeente</td>
+        </tr>
+    }
+</table>

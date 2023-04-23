@@ -1,0 +1,34 @@
+﻿@model DonutQueen.ViewModels.DonutOverviewViewModel;
+@{
+    ViewData["Title"] = "Admin - Donuts";
+}
+
+<h1 class="mt-5">@ViewData["Title"]</h1>
+
+<form class="mt-5" asp-action="CreateDonut" method="get">
+    <div class="form-group">
+        <input type="submit" value="Nieuwe donut" class="btn" style="background-color: hotpink !important; color: white !important;"/>
+    </div>
+</form>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Donuts[0].DonutId)</th>
+        <th>@Html.DisplayNameFor(model => model.Donuts[0].Naam)</th>
+        <th>@Html.DisplayNameFor(model => model.Donuts[0].Omschrijving)</th>
+        <th></th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach(var donut in Model.Donuts)
+    {
+        <tr>
+            <td>@donut.DonutId</td>
+            <td>@donut.Naam</td>
+            <td>@donut.Omschrijving</td>
+            <td><a class="button" asp-action="DonutDetails" asp-route-id="@donut.DonutId">Details</a></td>
+            <td><a class="button" asp-action="EditDonut" asp-route-id="@donut.DonutId">Aanpassen</a></td>
+            <td><a class="button" asp-action="DeleteDonut" asp-route-id="@donut.DonutId">Verwijderen</a></td>
+        </tr>
+    }
+</table>
