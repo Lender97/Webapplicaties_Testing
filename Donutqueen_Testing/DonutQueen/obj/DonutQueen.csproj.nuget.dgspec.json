@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj": {}
+    "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Webapplicaties_Testing\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj": {
+    "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Webapplicaties_Testing\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj",
+        "projectUniqueName": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Webapplicaties_Testing\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj",
         "projectName": "DonutQueen",
-        "projectPath": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj",
+        "projectPath": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Webapplicaties_Testing\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj",
         "packagesPath": "C:\\Users\\lende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Donutqueen_Testing\\DonutQueen\\obj\\",
+        "outputPath": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Webapplicaties_Testing\\Donutqueen_Testing\\DonutQueen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lende\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -28,7 +28,7 @@
             <td>@donut.Omschrijving</td>
             <td><a class="button" asp-action="DonutDetails" asp-route-id="@donut.DonutId">Details</a></td>
             <td><a class="button" asp-action="EditDonut" asp-route-id="@donut.DonutId">Aanpassen</a></td>
-            <td><a class="button" asp-action="DeleteDonut" asp-route-id="@donut.DonutId">Verwijderen</a></td>
+            <td><a class="button" id="@donut.DonutId" asp-action="DeleteDonut" asp-route-id="@donut.DonutId">Verwijderen</a></td>
         </tr>
     }
 </table>

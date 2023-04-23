@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5gsdzhtLD5pQ1UiR6LzHwHipjnhJqffuwxG0cquEWuvW+6m5WQUFynuXv6+AGOK8KmGl51PyuHPyww8lFEH+gg==",
+  "dgSpecHash": "UdxLYVEV7Kr3JRY58ERGG1HsW1jDVPTWJjmaHV5WLUR0jc62ayIJNqUAty28Udz+t00HjH8tctYA82leLidrsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj",
+  "projectFilePath": "C:\\Users\\lende\\Documents\\thomasmore\\jaar 2\\webapplicaties\\project\\Webapplicaties_Testing\\Donutqueen_Testing\\DonutQueen\\DonutQueen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lende\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\lende\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
