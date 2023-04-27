@@ -1,0 +1,22 @@
+﻿@model DonutQueen.ViewModels.ShopViewModel;
+@{
+    ViewData["Title"] = "Shop";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+
+@foreach(var donut in Model.Donuts)
+{
+    <div class="card border-danger m-2" style="width: 18rem; height: 32rem; float: left;">
+        <img src="~/images/@donut.Afbeelding" class="card-img-top" alt="@donut.Afbeelding" style="height: 18rem; width: auto;">
+        <div class="card-body bg-primary">
+            <h5 class="card-title" style="color: white;">@donut.Naam</h5>
+            <p class="card-text">@donut.Omschrijving</p>
+        </div>
+        <div class="card-footer bg-primary">
+            <a href="#" class="btn btn-light">Details</a>
+        </div>
+    </div>
+}
+<div style="clear: both;"/>

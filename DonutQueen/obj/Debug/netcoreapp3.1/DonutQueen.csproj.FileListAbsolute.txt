@@ -1,0 +1,271 @@
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.exe
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.deps.json
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.runtimeconfig.json
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.runtimeconfig.dev.json
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.pdb
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.Views.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.Views.pdb
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.AssemblyReference.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.AssemblyInfoInputs.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.AssemblyInfo.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.CoreCompileInputs.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.MvcApplicationPartsAssemblyInfo.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorAssemblyInfo.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorAssemblyInfo.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\DonutQueen.StaticWebAssets.Manifest.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.TagHelpers.input.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.TagHelpers.output.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorCoreGenerate.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DonutQueenLayout.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorTargetAssemblyInfo.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorTargetAssemblyInfo.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.Views.pdb
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.pdb
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.genruntimeconfig.cache
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.CopyComplete
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Donuts.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Gebruikers.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Orders.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Winkels.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Winkel\Index.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DonutDetails.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateDonut.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteDonut.cshtml.g.cs
+C:\Thomas More\Webapplicaties\oplossingen_webapplicaties\DonutQueen\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditDonut.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.exe
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.deps.json
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.runtimeconfig.json
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.runtimeconfig.dev.json
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.pdb
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.Views.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.Views.pdb
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.AssemblyReference.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.AssemblyInfoInputs.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.AssemblyInfo.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.CoreCompileInputs.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorAssemblyInfo.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorAssemblyInfo.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\DonutQueen.StaticWebAssets.Manifest.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\DonutQueen.StaticWebAssets.Pack.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DonutQueen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DonutQueen.props
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DonutQueen.props
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DonutQueen.props
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.TagHelpers.input.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.TagHelpers.output.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorCoreGenerate.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateDonut.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteDonut.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DonutDetails.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Donuts.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditDonut.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Gebruikers.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Orders.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Winkels.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DonutQueenLayout.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Winkel\Index.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorTargetAssemblyInfo.cache
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorTargetAssemblyInfo.cs
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.Views.pdb
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.CopyComplete
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.dll
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.pdb
+C:\WebApplicaties\donut_queen_deel_4\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.genruntimeconfig.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\appsettings.json
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.exe
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.deps.json
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.runtimeconfig.json
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.runtimeconfig.dev.json
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.pdb
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.Views.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\DonutQueen.Views.pdb
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.AssemblyReference.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.AssemblyInfoInputs.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.AssemblyInfo.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.CoreCompileInputs.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.MvcApplicationPartsAssemblyInfo.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorAssemblyInfo.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorAssemblyInfo.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\DonutQueen.StaticWebAssets.Manifest.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\DonutQueen.StaticWebAssets.Pack.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.DonutQueen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.DonutQueen.props
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.DonutQueen.props
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.DonutQueen.props
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.TagHelpers.input.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.TagHelpers.output.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorCoreGenerate.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateDonut.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DeleteDonut.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\DonutDetails.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Donuts.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditDonut.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Gebruikers.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Orders.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Winkels.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DonutQueenLayout.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\Winkel\Index.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorTargetAssemblyInfo.cache
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.RazorTargetAssemblyInfo.cs
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.Views.pdb
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.csproj.CopyComplete
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.dll
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.pdb
+C:\WebApplicaties\donut_queen_deel_4_enRepoTest\DonutQueen\obj\Debug\netcoreapp3.1\DonutQueen.genruntimeconfig.cache

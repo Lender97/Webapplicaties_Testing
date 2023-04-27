@@ -1,0 +1,66 @@
+﻿@model DonutQueen.ViewModels.ShopDetailsViewModel;
+@{
+    ViewData["Title"] = @Model.Naam;
+}
+
+<div class="row">
+    <div class="col m-5">
+         <img src="~/images/@Model.Afbeelding" class="card-img-top" alt="@Model.Afbeelding" style="height: 18rem; width: auto;">
+    </div>
+    <div class="col m-5">
+         <h1 style="color: hotpink !important;">@ViewData["Title"]</h1>
+         <p>@Model.Omschrijving</p>
+         <h3 style="color: hotpink !important;">Voor slechts @Model.Prijs!</h3>
+         <div class="accordion" id="accordionDetails">
+             <div class="card">
+                <div class="card-header" id="headingDetails">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseInfo" aria-expanded="false" aria-controls="collapseInfo">
+                            Informatie
+                        </button>
+                    </h2>
+                </div>
+
+                <div id="collapseInfo" class="collapse show" aria-labelledby="headingInfo" data-parent="#accordionDetails">
+                    <div class="card-body">
+                        <table class="table table-bordered">
+                            <tr>
+                                <td>Topping</td>
+                                <td>@Model.Topping</td>
+                            </tr>
+                            <tr>
+                                <td>Glazuur</td>
+                                <td>@Model.Glazuur</td>
+                            </tr>
+                            <tr>
+                                <td>Vulling</td>
+                                <td>@Model.Vulling</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-header" id="headingVoedingswaarde">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseVoedingswaarde" aria-expanded="false" aria-controls="collapseVoedingswaarde">
+                            Voedingswaarde
+                        </button>
+                    </h2>
+                </div>
+
+                <div id="collapseVoedingswaarde" class="collapse show" aria-labelledby="headingVoedingswaarde" data-parent="#accordionDetails">
+                    <div class="card-body">
+                        <table class="table table-bordered">
+                            <tr>
+                                <td>Vegan</td>
+                                    @if(this.Model.IsVegan) { <td>Ja</td> }
+                                    else { <td>Nee</td> }
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

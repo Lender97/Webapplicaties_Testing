@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DonutQueen", "DonutQueen\DonutQueen.csproj", "{2B5AF95A-1D13-4D59-8B01-751BFA67592D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDonutQueen", "TestDonutQueen\TestDonutQueen.csproj", "{C19A2175-A34F-4143-BEC4-9D9FA06283FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5AF95A-1D13-4D59-8B01-751BFA67592D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5AF95A-1D13-4D59-8B01-751BFA67592D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5AF95A-1D13-4D59-8B01-751BFA67592D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5AF95A-1D13-4D59-8B01-751BFA67592D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19A2175-A34F-4143-BEC4-9D9FA06283FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19A2175-A34F-4143-BEC4-9D9FA06283FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19A2175-A34F-4143-BEC4-9D9FA06283FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19A2175-A34F-4143-BEC4-9D9FA06283FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFC7D74-AAE5-4FE1-AF22-6CD56F4906B5}
+	EndGlobalSection
+EndGlobal
