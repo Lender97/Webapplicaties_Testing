@@ -66,12 +66,12 @@ namespace EndToEndTestingDonutqueen
             Thread.Sleep(5000);
 
             _timeout = 4;
-            waitForElement.Until(ExpectedConditions.ElementIsVisible(By.Id("18")));
-            _driver.FindElement(By.Id("18")).Click();
+            waitForElement.Until(ExpectedConditions.ElementIsVisible(By.Id("19")));
+            _driver.FindElement(By.Id("19")).Click();
 
             _driver.FindElement(By.Id("btnVerwijderen")).Click();
 
-            Thread.Sleep(10000);
+            Thread.Sleep(5000);
             Assert.Equal("https://localhost:44316/Admin/Donuts", _driver.Url);
         }
     }

@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DonutQueen.Migrations
 {
     [DbContext(typeof(DonutQueenContext))]
-    [Migration("20220925114824_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20230501101042_initialCreate")]
+    partial class initialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
