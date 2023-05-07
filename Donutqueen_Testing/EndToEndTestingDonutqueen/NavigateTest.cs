@@ -36,7 +36,12 @@ namespace EndToEndTestingDonutqueen
             waitForElement.Until(ExpectedConditions.ElementIsVisible(By.Id("3")));
             _driver.FindElement(By.Id("3")).Click();
 
-            Thread.Sleep(5000);
+            Thread.Sleep(2000);
+
+            IJavaScriptExecutor js = (IJavaScriptExecutor)_driver;
+            js.ExecuteScript("window.scrollTo(0, document.body.scrollHeight)");
+
+            Thread.Sleep(4000);
 
             Assert.Equal("https://localhost:44316/Shop/Details/3", _driver.Url);
         }

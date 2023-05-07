@@ -29,6 +29,7 @@ namespace EndToEndTestingDonutqueen
         public void DonutToevoegen()
         {
             WebDriverWait waitForElement = new WebDriverWait(_driver, TimeSpan.FromSeconds(_timeout));
+            //nieuwe donut aanmaken
             Donut donut = new Donut();
             donut.Naam = "Blue Rainbow";
             donut.Topping = "Blauwe hagelslag";
@@ -42,6 +43,7 @@ namespace EndToEndTestingDonutqueen
 
             Thread.Sleep(5000);
 
+            //waardes van de donut ingeven in de juiste input velden
             _driver.FindElement(By.Id("txtNaam")).SendKeys(donut.Naam);
             _driver.FindElement(By.Id("txtTopping")).SendKeys(donut.Topping);
             _driver.FindElement(By.Id("txtGlazuur")).SendKeys(donut.Glazuur);
@@ -50,8 +52,18 @@ namespace EndToEndTestingDonutqueen
             _driver.FindElement(By.Id("txtOmschrijving")).SendKeys(donut.Omschrijving);
             _driver.FindElement(By.Id("txtAfbeelding")).SendKeys(donut.Afbeelding);
             _driver.FindElement(By.Id("txtPrijs")).SendKeys(donut.Prijs.ToString());
+            
+            //donut aanmaken door de knop te gebruiken
             _driver.FindElement(By.Id("btnAanmaken")).Click();
 
+            Thread.Sleep(1000);
+
+
+            //javascript gebruiken om te scrollen door de pagina
+            IJavaScriptExecutor js = (IJavaScriptExecutor)_driver;
+            js.ExecuteScript("window.scrollTo(0, document.body.scrollHeight)");
+
+            //controleren dat de juiste url is gevonden
             Thread.Sleep(10000);
             Assert.Equal("https://localhost:44316/Admin/Donuts", _driver.Url);
         }
@@ -59,20 +71,25 @@ namespace EndToEndTestingDonutqueen
         [Fact]
         public void DeleteDonut()
         {
+            //waiter initialiseren
             WebDriverWait waitForElement = new WebDriverWait(_driver, TimeSpan.FromSeconds(_timeout));
 
-            _driver.Navigate().GoToUrl("https://localhost:44316/Admin/Donuts");
 
-            Thread.Sleep(5000);
+            //De driver naar de juiste pagina laten navigeren
 
+
+
+            //waiter een waarde geven
             _timeout = 4;
-            waitForElement.Until(ExpectedConditions.ElementIsVisible(By.Id("19")));
-            _driver.FindElement(By.Id("19")).Click();
 
-            _driver.FindElement(By.Id("btnVerwijderen")).Click();
+            //waiter laten wachten tot het juiste element zichtbaar is en dit element zoeken, tip: id 11
 
-            Thread.Sleep(5000);
-            Assert.Equal("https://localhost:44316/Admin/Donuts", _driver.Url);
+
+            //de knop verwijderen aanklikken
+
+
+            //controleren dat de juiste pagina geladen wordt
+
         }
     }
 }
